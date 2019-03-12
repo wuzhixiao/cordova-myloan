@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Myloan</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="meglive_prompt">Por favor, faça detecção com luz suficiente</string>
+    <string name="meglive_detect_initfailed">Falha na inicialização do detector</string>
+    <string name="meglive_camera_initfailed">Falha ao abrir câmera frontal</string>
+    <string name="meglive_getpermission_motion">Conceda acesso a permissão de dados esportivos</string>
+    <string name="meglive_phone_vertical">Por favor, aperte verticalmente o celular</string>
+    <string name="meglive_keep_eyes_open">Por favor, não cobra os olhos com as mãos</string>
+    <string name="meglive_keep_mouth_open">Por favor, não cobra a boca com as mãos</string>
+    <string name="face_not_found">Monstre o seu rosto</string>
+    <string name="face_too_dark">Por favor, faça a luz mais brilhante</string>
+    <string name="face_too_bright">Por favor, faça a luz mais escura</string>
+    <string name="face_too_small">Por favor, fique mais perto</string>
+    <string name="face_too_large">Por favor, fique mais longe</string>
+    <string name="face_too_blurry">Por favor, evite luz lateral e contraluz</string>
+    <string name="face_out_of_rect">Por favor, mantenha seu rosto no círculo</string>
+    <string name="meglive_pitch">Acene devagar com a cabeça</string>
+    <string name="meglive_yaw">Balance a cabeça da esquerda para a direita</string>
+    <string name="meglive_mouth_open_closed">Abra a boca</string>
+    <string name="meglive_eye_open_closed">Pisque os olhos</string>
+    <string name="meglive_pos_yaw_left">Vire à esquerda</string>
+    <string name="meglive_pos_yaw_right">Vire à direita</string>
+    <string name="verify_success">Sucesso de verificação</string>
+    <string name="liveness_detection_failed">Falha na detecção</string>
+    <string name="liveness_detection_failed_long">Falha na detecção de ser vivo,tente de novo.</string>
+    <string name="liveness_detection_failed_timeout">Limite do tempo, detecção não realizada</string>
+    <string name="liveness_detection_failed_action_blend">Ação de detecção errada</string>
+    <string name="liveness_detection_failed_not_video">Falha na detecção de continuidade</string>
+</resources>
